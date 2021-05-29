@@ -1,0 +1,44 @@
+.container{
+    text-align: center;
+    margin-top: 10vh;
+}
+
+body{
+    background-color:rgb(193, 145, 208);
+}
+
+h1{
+    font-family: cursive;
+}
+.container_2{
+    display: inline-block;
+    border: 4px solid black;
+    padding: 10px;
+    background-color: lavender;
+    border-radius: 20px;
+}
+
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 25px;
+    margin-bottom: 10px;
+    height: 40px;
+    border: 5px solid rgba(0, 0, 0, 0.545);
+    border-radius: 20px;
+    text-align: right;
+}
+
+button{
+    font-size: 30px;
+    width: 58px;
+    height: 53px;
+    margin: 6px;
+    border-radius: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.545);
+    background-color: rgba(58, 48, 52, 0.729);
+    color: lavenderblush;
+}
